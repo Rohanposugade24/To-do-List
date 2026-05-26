@@ -16,7 +16,7 @@ A simple To-Do List web application built using HTML, CSS, and JavaScript with L
 ## 📂 Project Setup
 1. Download or clone the repository
 2. Open the project folder in VS Code
-3. Run `index.html` in browser
+3. Run `https://todolist-six-roan-65.vercel.app/` in browser
 
 ## 💾 Local Storage
 Tasks are stored in browser Local Storage, so data remains saved even after refreshing the page.
