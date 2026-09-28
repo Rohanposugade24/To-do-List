@@ -2,7 +2,7 @@
 
 A simple To-Do List web application built using HTML, CSS, and JavaScript with Local Storage support.
 
-## 🚀 Features
+## 🚀Features
 - Add tasks
 - Mark tasks as completed
 - Delete tasks
